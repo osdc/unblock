@@ -19,7 +19,6 @@ Content to be unblocked from Cyberoam
 - **Wikipedia**: Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis. The technology allows subscribers to have at their disposal a full-fledged virtual cluster of computers, available all the time, through the Internet.
 - **About**: AWS provides a great set of features to developers for hosting and running applications on servers, but AWS is blocked, making the lives of students a tad more difficult.
 
-
 ### 4. Pwnabke.kr
 - **URL**: http://pwnable.kr/
 - **Blocked Under**: Games
