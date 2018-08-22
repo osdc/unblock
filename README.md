@@ -13,18 +13,12 @@ Content to be unblocked from Cyberoam
 - **Wikipedia**: The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium,[4] and is regularly regarded as a blog host.
 - **About**: From the last few years, Medium has been on a steady rise and has taken a key position as the canonical medium for posting articles and making blog posts, especially on technology. Because of this, most key technology publications have shifted to using Medium and because it's blocked, it has become increasingly difficult for students to access information there.
 
-### 3. Amazon Web Services
-- **URL**: https://aws.amazon.com/
-- **Blocked Under**: PersonalStorage
-- **Wikipedia**: Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides on-demand cloud computing platforms to individuals, companies and governments, on a paid subscription basis. The technology allows subscribers to have at their disposal a full-fledged virtual cluster of computers, available all the time, through the Internet.
-- **About**: AWS provides a great set of features to developers for hosting and running applications on servers, but AWS is blocked, making the lives of students a tad more difficult.
-
-### 4. Pwnable.kr
+### 3. Pwnable.kr
 - **URL**: http://pwnable.kr/
 - **Blocked Under**: Games
 - **About**: 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. This could provide a boon to security enthusiasts.
 
-### 5. Overthewire.org
+### 4. Overthewire.org
 - **URL**: http://overthewire.org/
 - **Blocked Under**: Games
 - **About**: The challenges offered by the OverTheWire community help us to learn and practice security concepts in the form of fun-filled games.One of its challenges Bandits is a great resource for beginners to start learning the command line in a fun and easy way.
