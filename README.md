@@ -22,3 +22,7 @@ Content to be unblocked from Cyberoam
 - **URL**: http://overthewire.org/
 - **Blocked Under**: Games
 - **About**: The challenges offered by the OverTheWire community help us to learn and practice security concepts in the form of fun-filled games.One of its challenges Bandits is a great resource for beginners to start learning the command line in a fun and easy way.
+
+### 6.IRC:- 
+- **About**:-Internet Relay Chat is a platform where developers communicate to each other.It is one of the oldest means of communication for developers.It includes a couples of servers and each server has different channels on it.It can be accessed using an IRC client such as irssi, WeeChat, ERC, HexChat, Smuxi, Quassel or mIRC. 
+- **Ports** :Ports '6665-6667' and '8000-8002' for plain-text connections,and ports '6697', '7000' and '7070' for SSL-encrypted connections.
