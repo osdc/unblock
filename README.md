@@ -29,4 +29,4 @@ Content to be unblocked from Cyberoam
 
 ### 7.SSH
 - **About**:-SSH i.e. Secure Socket Shell, is a network protocol that provides users with a secure way to access a remote computer.It provides strong,authenticated and secure encrypted data communications between two computers connecting over an insecure network like the Internet.It is widely used by network administrators for managing systems and applications remotely.
-- **Ports** :Ports '22,443 and 2220'.
+- **Ports** :Ports '22 and 2220'.
