@@ -23,6 +23,11 @@ Content to be unblocked from Cyberoam
 - **Blocked Under**: Games
 - **About**: The challenges offered by the OverTheWire community help us to learn and practice security concepts in the form of fun-filled games.One of its challenges Bandits is a great resource for beginners to start learning the command line in a fun and easy way.
 
+### 5.Quora CDN
+- **URL**:https://www.quora.com/
+- **About**: Quora is a question-answer website where people can get answers and opinions on the questions they ask to the community.Its a great platform where the society interacts and solves its problems.A lot of writers on it are masters of their domain including Prof.Thomas Cormen,Steve Wozniak,Jimmy Wales etc.Their answers on various questions are very inspiring and a treat to read and follow.
+- **Error**: `Loading failed for the <script> with source “https://qsbr.fs.quoracdn.net/-3-web.entry.js.out-34-e10672b8dc1e6782.webpack"` i.e. The home page loads but further functionalities don't work.
+
 ### 6.IRC:- 
 - **About**:-Internet Relay Chat is a platform where developers communicate to each other.It is one of the oldest means of communication for developers.It includes a couples of servers and each server has different channels on it.It can be accessed using an IRC client such as irssi, WeeChat, ERC, HexChat, Smuxi, Quassel or mIRC. 
 - **Ports** :Ports '6665-6667' and '8000-8002' for plain-text connections,and ports '6697', '7000' and '7070' for SSL-encrypted connections.
