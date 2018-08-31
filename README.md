@@ -25,7 +25,7 @@ Content to be unblocked from Cyberoam
 
 ### 5.Quora CDN
 - **URL**:https://www.quora.com/
-- **About**: Quora is a question-answer website where people can get answers and opinions on the questions they ask to the community.Its a great platform where the society interacts and solves problems of each other.A lot of writers on it are masters of their domain including Prof.Thomas Cormen,Steve Wozniak,Jimmy Wales etc.
+- **About**: Quora is a question-answer website where people can get answers and opinions on the questions they ask to the community.Its a great platform where the society interacts and solves its problems.A lot of writers on it are masters of their domain including Prof.Thomas Cormen,Steve Wozniak,Jimmy Wales etc.Their answers on various questions are very inspiring and a treat to read and follow.
 - **Error**: `Loading failed for the <script> with source “https://qsbr.fs.quoracdn.net/-3-web.entry.js.out-34-e10672b8dc1e6782.webpack"` i.e. The home page loads but further functionalities don't work.
 
 ### 6.IRC:- 
