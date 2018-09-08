@@ -35,3 +35,8 @@ Content to be unblocked from Cyberoam
 ### 7.SSH
 - **About**:-SSH i.e. Secure Socket Shell, is a network protocol that provides users with a secure way to access a remote computer.It provides strong,authenticated and secure encrypted data communications between two computers connecting over an insecure network like the Internet.It is widely used by network administrators for managing systems and applications remotely.
 - **Ports** :Ports '22 and 2220'.
+
+### 8. Glitch
+- **URL**: glitch.com glitch.me
+- **Blocked Under**: Games
+- **About**: Glitch is a sandbox platform for experimental web developers to build, test and prototype stuff. Apart from that, it also doubles up as a hosting provider for these fun experiments, now hosting some of the most unconventional web projects from talented developers around the world.
