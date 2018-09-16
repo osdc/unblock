@@ -2,13 +2,13 @@
 Content to be unblocked from Cyberoam of JIIT.
 
 ### 1. Discord
-- **URLs**: http://discordapp.com/ http://discord.gg/
+- **URLs**: http://discordapp.com/ and http://discord.gg/
 - **Blocked Under**: Games
 - **Wikipedia**: Discord is a proprietary freeware VoIP application designed for gaming communities.
 - **About**: While Discord is designed keeping gaming communities in mind, it has become a strong communication tool for all sorts of communities in general, spanning technology as well. A ton of open-source communities are active on Discord (more info here: https://discordapp.com/open-source), and unblocking Discord will help students interact with these communities freely.
 
 ### 2. Medium
-- **URLs**: https://medium.com/
+- **URL**: https://medium.com/
 - **Blocked Under**: Entertainment
 - **Wikipedia**: The platform is an example of social journalism, having a hybrid collection of amateur and professional people and publications, or exclusive blogs or publishers on Medium, and is regularly regarded as a blog host.
 - **About**: From the last few years, Medium has been on a steady rise and has taken a key position as the canonical medium for posting articles and making blog posts, especially on technology. Because of this, most key technology publications have shifted to using Medium and because it's blocked, it has become increasingly difficult for students to access information there.
@@ -27,7 +27,7 @@ Content to be unblocked from Cyberoam of JIIT.
 - **Ports** : Port `22`.
 
 ### 6. Glitch
-- **URL**: [glitch.com](https://glitch.com/) [glitch.me](https://glitch.me)
+- **URLs**: [glitch.com](https://glitch.com/) and [glitch.me](https://glitch.me)
 - **Blocked Under**: Games
 - **About**: Glitch is a sandbox platform for experimental web developers to build, test and prototype stuff. Apart from that, it also doubles up as a hosting provider for these fun experiments, now hosting some of the most unconventional web projects from talented developers around the world.
 
