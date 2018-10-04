@@ -34,3 +34,8 @@ Content to be unblocked from Cyberoam of JIIT.
 ### 7.SMTP (Simple Mail Transfer Protocol)
 - **About**: Simple Mail Transfer Protocol (SMTP) is an Internet standard for electronic mail (e-mail) transmission. Our e-mail clients (such as Thunderbird Mail, Outlook or Mac OS X Mail) use SMTP to send a message to the mail server, and the mail server uses SMTP to relay that message to the correct receiving mail server. Basically, SMTP is a set of commands that authenticate and direct the transfer of electronic mail.
 - **Ports** : Port `25` for non-encrypted communication and Port `465` for SSL encrypted communication.
+
+### 8.The Python Challenge
+- **URL**: [pythonchallenge.com](http://pythonchallenge.com/)
+- **Blocked Under**: Entertainment
+- **About**: The Python Challenge has over 20 levels of riddles, it's like a game which you can solve through Python Programming language, you have to create small python scripts for every level, it also welcomes programmers of other languages, but there are certain levels which require Python only, it's an entertaining way to explore python programming language and the solutions are entered by changing the URL address of the page, the riddles are designed for newcomers but are even challenging for expert python programmers.
