@@ -39,3 +39,10 @@ Content to be unblocked from Cyberoam of JIIT.
 - **URL**: [pythonchallenge.com](http://pythonchallenge.com/)
 - **Blocked Under**: Entertainment
 - **About**: The Python Challenge has over 20 levels of riddles, it's like a game which you can solve through Python Programming language, you have to create small python scripts for every level, it also welcomes programmers of other languages, but there are certain levels which require Python only, it's an entertaining way to explore python programming language and the solutions are entered by changing the URL address of the page, the riddles are designed for newcomers but are even challenging for expert python programmers.
+
+### 9.Interactive Python
+- **URL**: [interactivepython.org](https://interactivepython.org)
+- **Blocked Under**: Entertainment
+- **About**: Interactive Python is a project of Runestone Interactive. they host a growing number of Open Source, interactive textbooks one could use in their course. Written by award winning authors. The Runestone Interactive tools create compelling interactive learning resources used by hundreds of Colleges, Universities, and High Schools around the world. 
+
+
